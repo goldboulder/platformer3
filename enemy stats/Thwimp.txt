@@ -1,0 +1,19 @@
+Health 32
+Size 0.9 0.9
+Hitbox Square
+Damage Type Resistance
+Stab 0.4 30
+Slash 0.45 25
+Crush 0.5 20
+Fire 0.2 100
+Wind 0.18 100
+Ice 0.4 8
+Electric 0.15 100
+Holy 1 0
+Unholy 1 0
+Energy 0.2 3
+Magic 1 0
+Explosion 0.8 5
+Water 0.8 15
+Acid 0.8 4
+Poison 0 0

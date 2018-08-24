@@ -1,0 +1,5 @@
+Player 0.0 0.0
+Goomba 1.7899999999999985 0.3500000000000007 false
+BasicBlock 2.0 2.0 1.0 1.0 Blocks/BasicBlocks/BlackBlock
+BasicBlock 1.0 2.0 1.0 1.0 Blocks/BasicBlocks/BlackBlock
+BasicBlock 0.0 2.0 1.0 1.0 Blocks/BasicBlocks/BlackBlock

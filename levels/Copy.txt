@@ -1,0 +1,26 @@
+Player 0.0 0.0
+BasicBlock 4.0 0.0 1.0 1.0 Blocks/BasicBlocks/BlackBlock
+BasicBlock 4.0 1.0 1.0 1.0 Blocks/BasicBlocks/BlackBlock
+BasicBlock 3.0 1.0 1.0 1.0 Blocks/BasicBlocks/BlackBlock
+BasicBlock 2.0 1.0 1.0 1.0 Blocks/BasicBlocks/BlackBlock
+BasicBlock 2.0 2.0 1.0 1.0 Blocks/BasicBlocks/BlackBlock
+BasicBlock 1.0 2.0 1.0 1.0 Blocks/BasicBlocks/BlackBlock
+BasicBlock -1.0 2.0 1.0 1.0 Blocks/BasicBlocks/BlackBlock
+BasicBlock -5.0 2.0 1.0 1.0 Blocks/BasicBlocks/BlackBlock
+BasicBlock -6.0 2.0 1.0 1.0 Blocks/BasicBlocks/BlackBlock
+BasicBlock -7.0 1.5 1.0 1.0 Blocks/BasicBlocks/BlackBlock
+BasicBlock -1.0 3.0 1.0 1.0 Blocks/BasicBlocks/BlackBlock
+BasicBlock 0.0 3.0 1.0 1.0 Blocks/BasicBlocks/BlackBlock
+BasicBlock -2.0 3.0 1.0 1.0 Blocks/BasicBlocks/BlackBlock
+BasicBlock -3.0 3.0 1.0 1.0 Blocks/BasicBlocks/BlackBlock
+BasicBlock -4.0 3.0 1.0 1.0 Blocks/BasicBlocks/BlackBlock
+BasicBlock -5.0 3.0 1.0 1.0 Blocks/BasicBlocks/BlackBlock
+BasicBlock -6.0 3.0 1.0 1.0 Blocks/BasicBlocks/BlackBlock
+BasicBlock -7.0 3.0 1.0 1.0 Blocks/BasicBlocks/BlackBlock
+BasicBlock -8.0 3.0 1.0 1.0 Blocks/BasicBlocks/BlackBlock
+BasicBlock -9.0 3.0 1.0 1.0 Blocks/BasicBlocks/BlackBlock
+BasicBlock -10.0 3.0 1.0 1.0 Blocks/BasicBlocks/BlackBlock
+BasicBlock -11.0 3.0 1.0 1.0 Blocks/BasicBlocks/BlackBlock
+BasicBlock -12.0 3.0 1.0 1.0 Blocks/BasicBlocks/BlackBlock
+BasicBlock -13.0 3.0 1.0 1.0 Blocks/BasicBlocks/BlackBlock
+BasicBlock -14.0 3.0 1.0 1.0 Blocks/BasicBlocks/BlackBlock

@@ -1,0 +1,13 @@
+Player 0.0 0.0
+BasicBlock 0.0 2.5 1.0 1.0 Blocks/BasicBlocks/BlackBlock
+BasicBlock 1.0 2.5 1.0 1.0 Blocks/BasicBlocks/BlackBlock
+BasicBlock 2.0 2.5 1.0 1.0 Blocks/BasicBlocks/BlackBlock
+BasicBlock 5.0 -0.5 1.0 1.0 Blocks/BasicBlocks/BlackBlock
+BasicBlock 5.0 0.5 1.0 1.0 Blocks/BasicBlocks/BlackBlock
+BasicBlock 5.0 1.5 1.0 1.0 Blocks/BasicBlocks/BlackBlock
+BasicBlock 5.0 2.5 1.0 1.0 Blocks/BasicBlocks/BlackBlock
+BasicBlock 4.0 2.5 1.0 1.0 Blocks/BasicBlocks/BlackBlock
+BasicBlock 3.0 2.5 1.0 1.0 Blocks/BasicBlocks/BlackBlock
+BasicBlock 3.0 1.5 1.0 1.0 Blocks/BasicBlocks/BlackBlock
+BasicBlock 4.0 0.5 1.0 1.0 Blocks/BasicBlocks/BlackBlock
+WoodenDoor 4.894000000000001 -2.5319999999999996 Test 3.998 1.2119999999999984

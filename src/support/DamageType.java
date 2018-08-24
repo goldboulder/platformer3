@@ -1,0 +1,9 @@
+/*
+
+ */
+package support;
+
+
+public enum DamageType {
+    STAB,SLASH,CRUSH,FIRE,WIND,ICE,ELECTRIC,HOLY,UNHOLY,ENERGY,MAGIC,EXPLOSION,WATER,ACID,POISON
+}

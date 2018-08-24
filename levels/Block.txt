@@ -1,0 +1,2 @@
+Player 0.0 0.0
+BasicBlock -4.5 2.0 10.0 10.0 Blocks/BasicBlocks/LavenderBlock.png

@@ -1,0 +1,3 @@
+Player 0.0 0.0
+BasicBlock 6.0 -2.5 2.0 1.0 Blocks/BasicBlocks/BlueBlock.png
+BasicBlock 0.0 2.0 1.0 1.0 Blocks/BasicBlocks/BlackBlock
